@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\bin\Debug\SparePartApp.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\bin\Debug\SparePartApp.exe
+c:\users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\bin\Debug\SparePartApp.pdb
+c:\users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\bin\Debug\SparePartApp.xml
+c:\users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\obj\Debug\SparePartApp.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\obj\Debug\SparePartApp.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\obj\Debug\SparePartApp.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\obj\Debug\SparePartApp.SplashScreen1.resources
+c:\users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\obj\Debug\SparePartApp.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\obj\Debug\SparePartApp.exe
+c:\users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\obj\Debug\SparePartApp.xml
+c:\users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\obj\Debug\SparePartApp.pdb
+C:\Users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\obj\Debug\SparePartApp.AboutBox1.resources
+C:\Users\user\documents\visual studio 2015\Projects\SparePartApp\SparePartApp\obj\Debug\SparePartApp.Form2.resources
